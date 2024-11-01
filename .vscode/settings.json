@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "PIlas",
         "Matrices",
-        "Colas"
+        "Colas",
+        "Vectores/PilaVector"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
